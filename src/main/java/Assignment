@@ -1,0 +1,14 @@
+1.grade calculator using if else ladder .
+marks  grade
+>=80    S
+60      B
+40      C
+<40     F
+
+2.perform addition ,subtraction , multiplication n division using switch
+
+3.take values from user and insert into array and find greatest value from them
+
+4. reverse a string
+
+5. find the domain name from string using split method.
